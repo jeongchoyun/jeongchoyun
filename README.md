@@ -7,8 +7,9 @@
 
 #### 2023 
 
-- Increased Risk of New-Onset Asthma After COVID-19: A Nationwide Population-Based Cohort Study [10.1016/j.jaip.2023.09.015](https://doi.org/10.1016/j.jaip.2023.09.015)
-<https://www.aaaai.org/tools-for-the-public/latest-research-summaries/the-journal-of-allergy-and-clinical-immunology-in/2023/risk>
+- Increased Risk of New-Onset Asthma After COVID-19: A Nationwide Population-Based Cohort Study
+  [10.1016/j.jaip.2023.09.015](https://doi.org/10.1016/j.jaip.2023.09.015)  
+  [American Academy of Allergy, Asthma & Immunology](https://www.aaaai.org/tools-for-the-public/latest-research-summaries/the-journal-of-allergy-and-clinical-immunology-in/2023/risk)
 
 ---
 <!--
