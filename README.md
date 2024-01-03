@@ -8,7 +8,7 @@
 #### 2023 
 
 - Increased Risk of New-Onset Asthma After COVID-19: A Nationwide Population-Based Cohort Study 
-<https://doi.org/10.1016/j.jaip.2023.09.015>
+<10.1016/j.jaip.2023.09.015>
 
 ---
 <!--
