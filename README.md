@@ -2,10 +2,10 @@
 
 ---
 
-### Publications
+#### Publications
 
 
-#### 2023 
+##### 2023 
 
 - Increased Risk of New-Onset Asthma After COVID-19: A Nationwide Population-Based Cohort Study
   [10.1016/j.jaip.2023.09.015](https://doi.org/10.1016/j.jaip.2023.09.015)  
@@ -13,9 +13,9 @@
 
 ---
 
-### Lectures
+#### Lectures
 
-#### 2024 
+##### 2024 
 
 - [Winter Program: Data Science Toolbox](https://jeongchoyun.github.io/TBX2024/)
 
