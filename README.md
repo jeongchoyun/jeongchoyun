@@ -6,6 +6,8 @@
 
 ##### 2024
 
+- Increasing incidence of Parkinson's disease in patients with epilepsy: A Nationwide cohort study [DOI: 10.1016/j.jns.2024.122891](https://doi.org/10.1016/j.jns.2024.122891)
+
 - Risk of Alopecia Areata After COVID-19 [DOI: 10.1001/jamadermatol.2023.5559](https://doi.org/10.1001/jamadermatol.2023.5559)
 
 - Risk of newly diagnosed interstitial lung disease after COVID-19 and impact of vaccination: a nationwide population-based cohort study
