@@ -6,7 +6,7 @@
 
 ##### 2024
 
-- Does COVID-19 vaccination increase the risk of ILD in a population level? [DOI:10.1183/23120541.00690-2023](https://doi.org/10.1183/23120541.00690-2023)
+- Does COVID-19 vaccination increase the risk of ILD in a population level? [DOI: 10.1183/23120541.00690-2023](https://doi.org/10.1183/23120541.00690-2023)
 
 - Increasing incidence of Parkinson's disease in patients with epilepsy: A Nationwide cohort study [DOI: 10.1016/j.jns.2024.122891](https://doi.org/10.1016/j.jns.2024.122891)
 
