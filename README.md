@@ -6,6 +6,8 @@
 
 ##### 2024
 
+- Long-term impacts of COVID-19 on severe exacerbation and mortality in adult asthma: A nationwide population-based cohort study [doi.org/10.1016/j.jaip.2024.03.035](https://doi.org/10.1016/j.jaip.2024.03.035)
+
 - Incidence and risk factors of breast cancer-related lymphedema in Korea: A nationwide retrospective cohort study [DOI: 10.1097/JS9.0000000000001278](https://doi.org/10.1097/JS9.0000000000001278)
 
 - Does COVID-19 vaccination increase the risk of ILD in a population level? [DOI: 10.1183/23120541.00690-2023](https://doi.org/10.1183/23120541.00690-2023)
