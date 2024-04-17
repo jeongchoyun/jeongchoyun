@@ -30,6 +30,8 @@
 
 ##### 2024 
 
+- [Practice](https://jeongchoyun.github.io/study/)
+
 - [Winter Program: Data Science Toolbox](https://jeongchoyun.github.io/TBX2024/)
 
 ---
