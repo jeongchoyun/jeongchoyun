@@ -8,6 +8,8 @@
 
 - Herpesviral Keratitis Following COVID-19 Vaccination: Analysis of NHIS Database in Korea [DOI: 10.1097/ICO.0000000000003556](https://doi.org/10.1097/ICO.0000000000003556)
 
+- Risk of vitiligo in patients with SARS-CoV-2 vaccination or infection: a nationwide cohort study [DOI: 10.1684/ejd.2024.4646](https://doi.org/10.1684/ejd.2024.4646)
+
 - Long-term impacts of COVID-19 on severe exacerbation and mortality in adult asthma: A nationwide population-based cohort study [DOI: 10.1016/j.jaip.2024.03.035](https://doi.org/10.1016/j.jaip.2024.03.035)
 
 - Incidence and risk factors of breast cancer-related lymphedema in Korea: A nationwide retrospective cohort study [DOI: 10.1097/JS9.0000000000001278](https://doi.org/10.1097/JS9.0000000000001278)
