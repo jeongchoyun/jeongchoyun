@@ -4,7 +4,13 @@
 
 #### Publications
 
+- COVID-19 and risk of long-term mortality in COPD: a nationwide population-based cohort study [DOI:10.1136/bmjresp-2024-002694](https://bmjopenrespres.bmj.com/content/12/1/e002694)
+  
+- COVID-19 and Long-term Risk of Ischemic Heart Disease in Asthma [DOI:10.4168/aair.2025.17.1.135](https://doi.org/10.4168/aair.2025.17.1.135).
+
 ##### 2024
+
+- Association Between Ursodeoxycholic Acid and Clinical Outcomes in Patients With COVID-19 Infection: Population-Based Cohort Study [DOI:10.2196/59274](https://publichealth.jmir.org/2024/1/e59274/)
 
 - Herpesviral Keratitis Following COVID-19 Vaccination: Analysis of NHIS Database in Korea [DOI: 10.1097/ICO.0000000000003556](https://doi.org/10.1097/ICO.0000000000003556)
 
