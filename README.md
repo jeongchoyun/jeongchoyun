@@ -12,6 +12,8 @@
 
 ##### 2024
 
+- Long-term effects of COVID-19 on the risk of ischemic heart disease in asthma: A nationwide, population-based cohort study [DOI:10.1183/13993003.congress-2024.PA3988](https://doi.org/10.1183/13993003.congress-2024.PA3988)
+
 - Association Between Ursodeoxycholic Acid and Clinical Outcomes in Patients With COVID-19 Infection: Population-Based Cohort Study [DOI:10.2196/59274](https://publichealth.jmir.org/2024/1/e59274/)
 
 - Herpesviral Keratitis Following COVID-19 Vaccination: Analysis of NHIS Database in Korea [DOI: 10.1097/ICO.0000000000003556](https://doi.org/10.1097/ICO.0000000000003556)
