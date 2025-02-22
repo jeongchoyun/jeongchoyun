@@ -4,6 +4,8 @@
 
 #### Publications
 
+##### 2025
+
 - COVID-19 and risk of long-term mortality in COPD: a nationwide population-based cohort study [DOI:10.1136/bmjresp-2024-002694](https://bmjopenrespres.bmj.com/content/12/1/e002694)
   
 - COVID-19 and Long-term Risk of Ischemic Heart Disease in Asthma [DOI:10.4168/aair.2025.17.1.135](https://doi.org/10.4168/aair.2025.17.1.135).
