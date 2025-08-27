@@ -2,6 +2,9 @@
 
 ---
 
+#### Master’s Thesis
+- Comparison of Propensity Score Methods for Causal Inference with Multiple Treatments: A Simulation Estimating Risk Ratio, Jeonbuk National University, 2025 [I804:45011-000000061432](https://www.riss.kr/link?id=T17272238)
+
 #### Publications
 
 ##### 2025
